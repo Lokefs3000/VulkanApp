@@ -1,0 +1,2 @@
+C:/VulkanSDK/1.3.224.1/Bin/glslc.exe C:/Users/Loke/source/repos/DirectXEngine/VulkanApp/VulkanApp/shaders/shader.vert -o C:/Users/Loke/source/repos/DirectXEngine/VulkanApp/VulkanApp/shaders/vert.spv
+C:/VulkanSDK/1.3.224.1/Bin/glslc.exe C:/Users/Loke/source/repos/DirectXEngine/VulkanApp/VulkanApp/shaders/shader.frag -o C:/Users/Loke/source/repos/DirectXEngine/VulkanApp/VulkanApp/shaders/frag.spv
